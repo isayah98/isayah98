@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Isayah Tsela 👋
 
-<!--
-**isayah98/isayah98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Web Developer from South Africa.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- WordPress
+- WooCommerce
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Rashopa eCommerce Store
+- Personal Portfolio Website
+- Blog Platform
+
+## Currently Learning
+- React
+- Node.js
+- AWS Cloud Fundamentals
+
+## Contact
+- LinkedIn: www.linkedin.com/in/isayah-tsela-028122235
+- Email: isayatsela@gmail.com
